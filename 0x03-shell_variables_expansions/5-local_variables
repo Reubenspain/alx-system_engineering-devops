@@ -1,1 +1,2 @@
-export BETTY=alx-school
+#!/bin/bash
+ export var="value" 
