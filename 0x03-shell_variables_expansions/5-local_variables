@@ -1,2 +1,2 @@
 #!/bin/bash
-set //display all the ENVs(global as well as local) 
+export var="value" 
