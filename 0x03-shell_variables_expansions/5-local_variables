@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NAME 
+//prints local,env and func 
